@@ -1,3 +1,9 @@
 This is main branch update
 This is branch A update
+<<<<<<< HEAD
+Main branch update 2
+=======
+Feature update 2
+Feature update 2
+>>>>>>> feature/day4-practice
 Main branch update 2
